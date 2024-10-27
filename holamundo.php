@@ -1,6 +1,7 @@
 <html>
  <head>
   <title>Prueba de PHP</title>
+  <link rel="stylesheet" href="estilo.css">
  </head>
  <body>
  <h1>HOLA QUE TAL</h1>
